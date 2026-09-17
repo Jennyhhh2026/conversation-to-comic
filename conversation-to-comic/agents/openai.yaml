@@ -1,0 +1,4 @@
+interface:
+  display_name: "对话变连环画"
+  short_description: "将多人对话转成有事实、有角色、有幽默与洞察的竖版连环画，支持共创和局部修订"
+  default_prompt: "请使用 $conversation-to-comic，把这份对话或文章改编成竖版连环画，结合人物参考图，保留各位发言人的贡献与现场趣味。"
